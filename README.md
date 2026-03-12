@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tomas Juarez</h1>
 <h3 align="center">Full Stack Engineer | AI Enthusiast | Software Architecture Advocate</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moka-web&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Tomas's Top Langs" />
-</p>
-
 ---
 
 ### 🚀 About Me
@@ -53,10 +49,4 @@ Soy un desarrollador **Full Stack** basado en Argentina, enfocado en construir a
 <p align="left">
 <a href="https://linkedin.com/in/tomasjuarez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tomasjuarez" height="30" width="40" /></a>
 <a href="mailto:mokajua@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moka-web&show_icons=true&theme=radical" alt="Tomas's GitHub Stats" />
 </p>
